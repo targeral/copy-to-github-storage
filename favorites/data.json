@@ -1,0 +1,98 @@
+[
+  {
+    "dateAdded": 1710597882307,
+    "id": "25",
+    "index": 2,
+    "parentId": "2",
+    "title": "扩展程序 - DEV | Favorites folder",
+    "url": "chrome://extensions/?id=nnbkcjaggjmnpkpjmfnilgalfhimmpcf",
+    "tags": [
+      "其他书签"
+    ],
+    "newTag": ""
+  },
+  {
+    "dateAdded": 1709975157816,
+    "id": "23",
+    "index": 4,
+    "parentId": "7",
+    "title": "其貌不扬，管理书签却是能手：Pinboard 入门指南 - 少数派",
+    "url": "https://sspai.com/post/41817",
+    "tags": [
+      "a"
+    ],
+    "newTag": ""
+  },
+  {
+    "dateAdded": 1709971340573,
+    "id": "22",
+    "index": 3,
+    "parentId": "7",
+    "title": "vercel - Google 搜索",
+    "url": "https://www.google.com/search?q=vercel&oq=vercel&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyDQgBEC4YxwEY0QMYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgzOTU4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8",
+    "tags": [
+      "a"
+    ],
+    "newTag": ""
+  },
+  {
+    "dateAdded": 1709971253724,
+    "id": "21",
+    "index": 2,
+    "parentId": "7",
+    "title": "SwitchyOmega 选项",
+    "url": "chrome-extension://padekgcemlokbadohgkifijomclgjgif/options.html#!/io",
+    "tags": [
+      "a"
+    ],
+    "newTag": ""
+  },
+  {
+    "dateAdded": 1709969825725,
+    "id": "13",
+    "index": 1,
+    "parentId": "8",
+    "title": "扩展程序",
+    "url": "chrome://extensions/?errors=kchppnldonacfnedfegldneannopgmnk",
+    "tags": [
+      "b"
+    ],
+    "newTag": ""
+  },
+  {
+    "dateAdded": 1709969621776,
+    "id": "12",
+    "index": 0,
+    "parentId": "8",
+    "title": "GitHub: Let’s build from here · GitHub",
+    "url": "https://github.com/",
+    "tags": [
+      "b"
+    ],
+    "newTag": ""
+  },
+  {
+    "dateAdded": 1709968470765,
+    "id": "6",
+    "index": 0,
+    "parentId": "7",
+    "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "url": "https://www.bilibili.com/",
+    "tags": [
+      "a"
+    ],
+    "newTag": ""
+  },
+  {
+    "dateAdded": 1709968438465,
+    "id": "5",
+    "index": 1,
+    "parentId": "7",
+    "title": "百度一下，你就知道",
+    "url": "https://www.baidu.com/",
+    "tags": [
+      "a"
+    ],
+    "newTag": ""
+  }
+]
