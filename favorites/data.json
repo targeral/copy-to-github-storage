@@ -118,5 +118,32 @@
       "a"
     ],
     "newTag": ""
+  },
+  {
+    "id": "35",
+    "title": "Moonshot AI - 开放平台",
+    "tags": [
+      {
+        "name": "AI",
+        "source": "AI"
+      },
+      {
+        "name": "Chatbot",
+        "source": "AI"
+      },
+      {
+        "name": "NLP",
+        "source": "AI"
+      },
+      {
+        "name": "开放平台",
+        "source": "AI"
+      },
+      {
+        "name": "对话交互",
+        "source": "AI"
+      }
+    ],
+    "url": "https://platform.moonshot.cn/docs/api-reference"
   }
 ]
