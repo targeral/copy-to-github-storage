@@ -238,34 +238,6 @@
       {
         "name": "运动",
         "source": "AI"
-      },
-      {
-        "name": "动物圈",
-        "source": "AI"
-      },
-      {
-        "name": "虚拟UP主",
-        "source": "AI"
-      },
-      {
-        "name": "生活",
-        "source": "AI"
-      },
-      {
-        "name": "VLOG",
-        "source": "AI"
-      },
-      {
-        "name": "公益",
-        "source": "AI"
-      },
-      {
-        "name": "公开课",
-        "source": "AI"
-      },
-      {
-        "name": "专栏",
-        "source": "AI"
       }
     ],
     "url": "https://www.bilibili.com/"
