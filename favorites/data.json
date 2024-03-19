@@ -178,66 +178,6 @@
       {
         "name": "电影",
         "source": "AI"
-      },
-      {
-        "name": "电视剧",
-        "source": "AI"
-      },
-      {
-        "name": "综艺",
-        "source": "AI"
-      },
-      {
-        "name": "纪录片",
-        "source": "AI"
-      },
-      {
-        "name": "音乐",
-        "source": "AI"
-      },
-      {
-        "name": "舞蹈",
-        "source": "AI"
-      },
-      {
-        "name": "娱乐",
-        "source": "AI"
-      },
-      {
-        "name": "科技",
-        "source": "AI"
-      },
-      {
-        "name": "资讯",
-        "source": "AI"
-      },
-      {
-        "name": "知识",
-        "source": "AI"
-      },
-      {
-        "name": "搞笑",
-        "source": "AI"
-      },
-      {
-        "name": "美食",
-        "source": "AI"
-      },
-      {
-        "name": "生活",
-        "source": "AI"
-      },
-      {
-        "name": "汽车",
-        "source": "AI"
-      },
-      {
-        "name": "时尚",
-        "source": "AI"
-      },
-      {
-        "name": "运动",
-        "source": "AI"
       }
     ],
     "url": "https://www.bilibili.com/"
