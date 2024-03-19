@@ -145,5 +145,24 @@
       }
     ],
     "url": "https://platform.moonshot.cn/docs/api-reference"
+  },
+  {
+    "id": "36",
+    "title": "kimi api - Google 搜索",
+    "tags": [
+      {
+        "name": "前端开发",
+        "source": "AI"
+      },
+      {
+        "name": "大数据",
+        "source": "AI"
+      },
+      {
+        "name": "人工智能",
+        "source": "AI"
+      }
+    ],
+    "url": "https://www.google.com/search?q=kimi+api&oq=kimi+api&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABNIBCDE0MjdqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8"
   }
 ]
