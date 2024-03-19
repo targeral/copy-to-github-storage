@@ -1,168 +1,158 @@
 [
   {
+    "dateAdded": 1710858592633,
+    "title": "kimi api - Google 搜索",
+    "url": "https://www.google.com/search?q=kimi+api&oq=kimi+api&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABNIBCDE0MjdqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8",
+    "id": "36",
+    "tags": [
+      {
+        "name": "其他书签",
+        "source": "SYSTEM"
+      }
+    ]
+  },
+  {
+    "dateAdded": 1710858144786,
+    "title": "Moonshot AI - 开放平台",
+    "url": "https://platform.moonshot.cn/docs/api-reference",
+    "id": "35",
+    "tags": [
+      {
+        "name": "其他书签",
+        "source": "SYSTEM"
+      }
+    ]
+  },
+  {
+    "dateAdded": 1710857999609,
+    "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "url": "https://www.bilibili.com/",
+    "id": "33",
+    "tags": [
+      {
+        "name": "其他书签",
+        "source": "SYSTEM"
+      }
+    ]
+  },
+  {
+    "dateAdded": 1710854166501,
+    "title": "Storage API – Plasmo",
+    "url": "https://docs.plasmo.com/framework/storage#with-a-custom-storage-instance",
+    "id": "30",
+    "tags": [
+      {
+        "name": "其他书签",
+        "source": "SYSTEM"
+      }
+    ]
+  },
+  {
     "dateAdded": 1710609085250,
-    "id": "27",
-    "index": 4,
-    "parentId": "2",
     "title": "api.github.com/repos/targeral/copy-to-github-storage/contents/favorites%2Fdata.json?ref=main",
     "url": "https://api.github.com/repos/targeral/copy-to-github-storage/contents/favorites%2Fdata.json?ref=main",
+    "id": "27",
     "tags": [
-      "其他书签"
-    ],
-    "newTag": ""
+      {
+        "name": "其他书签",
+        "source": "SYSTEM"
+      }
+    ]
   },
   {
     "dateAdded": 1710608243904,
-    "id": "26",
-    "index": 3,
-    "parentId": "2",
     "title": "REST API 入门 - GitHub Docs",
     "url": "https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api?apiVersion=2022-11-28#media-types",
+    "id": "26",
     "tags": [
-      "其他书签"
-    ],
-    "newTag": ""
+      {
+        "name": "其他书签",
+        "source": "SYSTEM"
+      }
+    ]
   },
   {
     "dateAdded": 1710597882307,
-    "id": "25",
-    "index": 2,
-    "parentId": "2",
     "title": "扩展程序 - DEV | Favorites folder",
     "url": "chrome://extensions/?id=nnbkcjaggjmnpkpjmfnilgalfhimmpcf",
+    "id": "25",
     "tags": [
-      "其他书签"
-    ],
-    "newTag": ""
+      {
+        "name": "其他书签",
+        "source": "SYSTEM"
+      }
+    ]
   },
   {
     "dateAdded": 1709975157816,
-    "id": "23",
-    "index": 4,
-    "parentId": "7",
     "title": "其貌不扬，管理书签却是能手：Pinboard 入门指南 - 少数派",
     "url": "https://sspai.com/post/41817",
+    "id": "23",
     "tags": [
-      "a"
-    ],
-    "newTag": ""
+      {
+        "name": "a",
+        "source": "SYSTEM"
+      }
+    ]
   },
   {
     "dateAdded": 1709971340573,
-    "id": "22",
-    "index": 3,
-    "parentId": "7",
     "title": "vercel - Google 搜索",
     "url": "https://www.google.com/search?q=vercel&oq=vercel&gs_lcrp=EgZjaHJvbWUqCggAEAAY4wIYgAQyCggAEAAY4wIYgAQyDQgBEC4YxwEY0QMYgAQyBwgCEAAYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQgzOTU4ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8",
+    "id": "22",
     "tags": [
-      "a"
-    ],
-    "newTag": ""
+      {
+        "name": "a",
+        "source": "SYSTEM"
+      }
+    ]
   },
   {
     "dateAdded": 1709971253724,
-    "id": "21",
-    "index": 2,
-    "parentId": "7",
     "title": "SwitchyOmega 选项",
     "url": "chrome-extension://padekgcemlokbadohgkifijomclgjgif/options.html#!/io",
+    "id": "21",
     "tags": [
-      "a"
-    ],
-    "newTag": ""
+      {
+        "name": "a",
+        "source": "SYSTEM"
+      }
+    ]
   },
   {
     "dateAdded": 1709969825725,
-    "id": "13",
-    "index": 1,
-    "parentId": "8",
     "title": "扩展程序",
     "url": "chrome://extensions/?errors=kchppnldonacfnedfegldneannopgmnk",
+    "id": "13",
     "tags": [
-      "b"
-    ],
-    "newTag": ""
+      {
+        "name": "b",
+        "source": "SYSTEM"
+      }
+    ]
   },
   {
     "dateAdded": 1709969621776,
-    "id": "12",
-    "index": 0,
-    "parentId": "8",
     "title": "GitHub: Let’s build from here · GitHub",
     "url": "https://github.com/",
+    "id": "12",
     "tags": [
-      "b"
-    ],
-    "newTag": ""
-  },
-  {
-    "dateAdded": 1709968470765,
-    "id": "6",
-    "index": 0,
-    "parentId": "7",
-    "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
-    "url": "https://www.bilibili.com/",
-    "tags": [
-      "a"
-    ],
-    "newTag": ""
+      {
+        "name": "b",
+        "source": "SYSTEM"
+      }
+    ]
   },
   {
     "dateAdded": 1709968438465,
-    "id": "5",
-    "index": 1,
-    "parentId": "7",
     "title": "百度一下，你就知道",
     "url": "https://www.baidu.com/",
-    "tags": [
-      "a"
-    ],
-    "newTag": ""
-  },
-  {
-    "id": "35",
-    "title": "Moonshot AI - 开放平台",
+    "id": "5",
     "tags": [
       {
-        "name": "AI",
-        "source": "AI"
-      },
-      {
-        "name": "Chatbot",
-        "source": "AI"
-      },
-      {
-        "name": "NLP",
-        "source": "AI"
-      },
-      {
-        "name": "开放平台",
-        "source": "AI"
-      },
-      {
-        "name": "对话交互",
-        "source": "AI"
+        "name": "a",
+        "source": "SYSTEM"
       }
-    ],
-    "url": "https://platform.moonshot.cn/docs/api-reference"
-  },
-  {
-    "id": "36",
-    "title": "kimi api - Google 搜索",
-    "tags": [
-      {
-        "name": "前端开发",
-        "source": "AI"
-      },
-      {
-        "name": "大数据",
-        "source": "AI"
-      },
-      {
-        "name": "人工智能",
-        "source": "AI"
-      }
-    ],
-    "url": "https://www.google.com/search?q=kimi+api&oq=kimi+api&gs_lcrp=EgZjaHJvbWUyCQgAEEUYORiABNIBCDE0MjdqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8"
+    ]
   }
 ]
