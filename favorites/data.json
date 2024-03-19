@@ -154,5 +154,120 @@
         "source": "SYSTEM"
       }
     ]
+  },
+  {
+    "id": "40",
+    "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+    "tags": [
+      {
+        "name": "视频",
+        "source": "AI"
+      },
+      {
+        "name": "直播",
+        "source": "AI"
+      },
+      {
+        "name": "动漫",
+        "source": "AI"
+      },
+      {
+        "name": "游戏",
+        "source": "AI"
+      },
+      {
+        "name": "电影",
+        "source": "AI"
+      },
+      {
+        "name": "电视剧",
+        "source": "AI"
+      },
+      {
+        "name": "综艺",
+        "source": "AI"
+      },
+      {
+        "name": "纪录片",
+        "source": "AI"
+      },
+      {
+        "name": "音乐",
+        "source": "AI"
+      },
+      {
+        "name": "舞蹈",
+        "source": "AI"
+      },
+      {
+        "name": "娱乐",
+        "source": "AI"
+      },
+      {
+        "name": "科技",
+        "source": "AI"
+      },
+      {
+        "name": "资讯",
+        "source": "AI"
+      },
+      {
+        "name": "知识",
+        "source": "AI"
+      },
+      {
+        "name": "搞笑",
+        "source": "AI"
+      },
+      {
+        "name": "美食",
+        "source": "AI"
+      },
+      {
+        "name": "生活",
+        "source": "AI"
+      },
+      {
+        "name": "汽车",
+        "source": "AI"
+      },
+      {
+        "name": "时尚",
+        "source": "AI"
+      },
+      {
+        "name": "运动",
+        "source": "AI"
+      },
+      {
+        "name": "动物圈",
+        "source": "AI"
+      },
+      {
+        "name": "虚拟UP主",
+        "source": "AI"
+      },
+      {
+        "name": "生活",
+        "source": "AI"
+      },
+      {
+        "name": "VLOG",
+        "source": "AI"
+      },
+      {
+        "name": "公益",
+        "source": "AI"
+      },
+      {
+        "name": "公开课",
+        "source": "AI"
+      },
+      {
+        "name": "专栏",
+        "source": "AI"
+      }
+    ],
+    "url": "https://www.bilibili.com/"
   }
 ]
