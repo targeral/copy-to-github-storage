@@ -197,10 +197,6 @@
       {
         "name": "Internet",
         "source": "AI"
-      },
-      {
-        "name": "dddd",
-        "source": "USER"
       }
     ],
     "url": "https://www.google.com/",
