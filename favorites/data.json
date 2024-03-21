@@ -181,5 +181,25 @@
       }
     ],
     "url": "https://www.bilibili.com/"
+  },
+  {
+    "id": "15",
+    "title": "Google",
+    "tags": [
+      {
+        "name": "搜索引擎",
+        "source": "AI"
+      },
+      {
+        "name": "网络",
+        "source": "AI"
+      },
+      {
+        "name": "Internet",
+        "source": "AI"
+      }
+    ],
+    "url": "https://www.google.com/",
+    "dateAdded": 1711004957380
   }
 ]
