@@ -44,6 +44,10 @@
       {
         "name": "其他书签",
         "source": "SYSTEM"
+      },
+      {
+        "name": "sss",
+        "source": "USER"
       }
     ]
   },
