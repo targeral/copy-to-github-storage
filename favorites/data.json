@@ -353,5 +353,25 @@
     ],
     "url": "https://www.bilibili.com/",
     "dateAdded": 1711012020809
+  },
+  {
+    "id": "22",
+    "title": "GitHub: Let’s build from here · GitHub",
+    "tags": [
+      {
+        "name": "Development Tools",
+        "source": "AI"
+      },
+      {
+        "name": "Project Management",
+        "source": "AI"
+      },
+      {
+        "name": "Security",
+        "source": "AI"
+      }
+    ],
+    "url": "https://github.com/",
+    "dateAdded": 1711357364635
   }
 ]
